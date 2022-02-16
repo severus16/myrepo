@@ -9,3 +9,4 @@ AND SIMPLE
 >>>>>>> dev
 #add a line
 
+fixed bug in main branch.
