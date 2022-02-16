@@ -7,3 +7,5 @@ Git tracks changes of files.
 =======
 AND SIMPLE
 >>>>>>> dev
+#add a line
+
